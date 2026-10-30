@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Stephan 👋
 
-### 💻 Software Developer | [Your Main Technology] | [Your Specialization]
+### 💻 Software Developer | Fullstack Developer
 
 Welcome to my GitHub profile!
 
@@ -21,13 +21,9 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages, Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css)](https://skillicons.dev)
-
-**Frameworks & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,spring,docker,git,github,vscode)](https://skillicons.dev)
 
 ---
 

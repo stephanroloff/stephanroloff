@@ -14,8 +14,7 @@ I'm a passionate software developer interested in building scalable, efficient, 
 - 🌱 Currently learning **[Technology / Framework]**
 - 🔭 Working on **[Current Project]**
 - 🎯 Interested in **Software Development, Clean Code & Software Architecture**
-- 🌍 Based in [Country]
-- 📫 Contact me: [your.email@example.com]
+- 🌍 Based in Germany
 
 ---
 

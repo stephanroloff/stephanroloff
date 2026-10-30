@@ -23,7 +23,7 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 **Languages, Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite,npm,nodejs,php,postgres,prisma,supabase,wordpress,vitest,docker,linux,bash, git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite,npm,nodejs,php,postgres,prisma,supabase,wordpress,vitest,docker,linux,bash,git,github,vscode)](https://skillicons.dev/)
 
 ---
 

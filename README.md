@@ -1,6 +1,6 @@
 # Hi, I'm Stephan 👋
 
-### 💻 Software Developer | Fullstack Developer
+### Software Developer | Fullstack Developer
 
 Welcome to my GitHub profile!
 
@@ -8,7 +8,7 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages, Frameworks & Tools**
 
@@ -16,7 +16,7 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
 - 📧 Email: [your.email@example.com]

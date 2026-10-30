@@ -21,10 +21,6 @@ I'm a passionate software developer interested in building scalable, efficient, 
 - 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
 - 📧 Email: [your.email@example.com]
 - 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
-
----
-
-⭐ Thanks for visiting my profile!
 <!--
 **stephanroloff/stephanroloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

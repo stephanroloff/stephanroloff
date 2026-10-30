@@ -8,16 +8,6 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 ---
 
-## 🚀 About Me
-
-- 💼 Currently looking for new opportunities as a **[Job Position]**
-- 🌱 Currently learning **[Technology / Framework]**
-- 🔭 Working on **[Current Project]**
-- 🎯 Interested in **Software Development, Clean Code & Software Architecture**
-- 🌍 Based in Germany
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages, Frameworks & Tools**

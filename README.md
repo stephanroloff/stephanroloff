@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm [Your Name] 👋
 
 ### 💻 Software Developer | [Your Main Technology] | [Your Specialization]

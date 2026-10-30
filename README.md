@@ -27,39 +27,6 @@ I'm a passionate software developer interested in building scalable, efficient, 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [Project Name 1]
-Brief description of the project and the problem it solves.
-
-- Technologies: [Technology 1, Technology 2]
-- Key features: [Feature 1, Feature 2]
-- [View Repository](YOUR_PROJECT_LINK)
-
-### 🔹 [Project Name 2]
-Brief description of another project.
-
-- Technologies: [Technology 1, Technology 2]
-- Key features: [Feature 1, Feature 2]
-- [View Repository](YOUR_PROJECT_LINK)
-
-### 🔹 [Project Name 3]
-Brief description of another project.
-
-- Technologies: [Technology 1, Technology 2]
-- Key features: [Feature 1, Feature 2]
-- [View Repository](YOUR_PROJECT_LINK)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
